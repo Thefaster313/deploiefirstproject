@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deploiefirstproject/static/css/main.b2fc9030.chunk.css",
+    "main.js": "/deploiefirstproject/static/js/main.97cf0570.chunk.js",
+    "main.js.map": "/deploiefirstproject/static/js/main.97cf0570.chunk.js.map",
+    "runtime-main.js": "/deploiefirstproject/static/js/runtime-main.a2add5e5.js",
+    "runtime-main.js.map": "/deploiefirstproject/static/js/runtime-main.a2add5e5.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/deploiefirstproject/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.6cfa92f3.chunk.js": "/deploiefirstproject/static/js/2.6cfa92f3.chunk.js",
+    "static/js/2.6cfa92f3.chunk.js.map": "/deploiefirstproject/static/js/2.6cfa92f3.chunk.js.map",
+    "static/js/3.54552544.chunk.js": "/deploiefirstproject/static/js/3.54552544.chunk.js",
+    "static/js/3.54552544.chunk.js.map": "/deploiefirstproject/static/js/3.54552544.chunk.js.map",
+    "index.html": "/deploiefirstproject/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/deploiefirstproject/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.b2fc9030.chunk.css.map": "/deploiefirstproject/static/css/main.b2fc9030.chunk.css.map",
+    "static/js/2.6cfa92f3.chunk.js.LICENSE.txt": "/deploiefirstproject/static/js/2.6cfa92f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2add5e5.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.6cfa92f3.chunk.js",
+    "static/css/main.b2fc9030.chunk.css",
+    "static/js/main.97cf0570.chunk.js"
+  ]
+}
